@@ -1,3 +1,4 @@
+# Caso Práctico usando Python # 2
 
 ##  Preprocesamiento de los Datos
 El preprocesamiento de datos es una etapa crítica en proyectos de Inteligencia Artificial y Machine Learning, ya que permite transformar los datos crudos en un formato adecuado para el modelado. Las principales fases incluyen: Limpieza de datos, Tratamiento de valores nulos, Transformación de variables, Reducción de ruido e inconsistencias, Escalado y normalización
