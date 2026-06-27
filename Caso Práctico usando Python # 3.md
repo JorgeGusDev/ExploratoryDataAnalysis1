@@ -4,6 +4,9 @@
 
 Implementar un caso práctico de **regresión lineal** usando **Gradient Descent** para predecir el salario de una persona según sus años de experiencia.
 
+Dataset: https://www.kaggle.com/datasets/mohithsairamreddy/salary-data/data 
+
+
 El dataset utilizado contiene dos columnas a utilizar:
 
 * `Years of Experience`
