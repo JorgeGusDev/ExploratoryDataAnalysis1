@@ -29,6 +29,8 @@ from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_sc
 
 Cargamos el archivo CSV del dataset Iris desde Kaggle.
 
+Dataset: https://www.kaggle.com/datasets/uciml/iris/data
+
 ```python
 data = pd.read_csv("path.csv")
 ```
